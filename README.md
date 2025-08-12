@@ -4,8 +4,8 @@
 MSc Artificial Intelligence (Royal Holloway) | KTP Associate — Royal Holloway × Rubberatkins LTD
 
 [![Mail](https://img.shields.io/badge/email-meehirmhatre1234%40gmail.com-7cf)](mailto:meehirmhatre1234@gmail.com)  
-[![Mail](https://img.shields.io/badge/email-meehir-mhatre)](https://www.linkedin.com/in/meehir-mhatre-2134741a9/) 
-[![LinkedIn]([https://img.shields.io/badge/email-meehirmhatre1234%40gmail.com-7cf)]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/meehir-mhatre-2134741a9/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-meehir-mhatre)](https://www.linkedin.com/in/meehir-mhatre-2134741a9/) 
+
 
 ---
 
