@@ -20,20 +20,20 @@ MSc Artificial Intelligence (Royal Holloway) | KTP Associate — Royal Holloway 
 
 ---
 
-### Express-U
-**Express-U** — a Flutter-based real-time Indian Sign Language recognition app.  
-- Mobile app (Flutter) front-end and server-side model inference.  
-- VGG16-based gesture classification backbone for frame-level recognition and LSTM/temporal smoothing for sequence-level predictions.  
-**Repo:** `github.com/meehirmhatrepy/Express-U`
-
----
-
 ### Ensemble Deep Learning — Environmental Sound Classification
 Notebook & models for training audio classifiers on **ESC-50** (2000 audio clips, 50 classes).  
 - Data preprocessing, augmentation, spectrogram pipeline.  
 - Trained and compared multiple architectures (VGG16, VGG19, ResNet152, EfficientNetB0, CRNN).  
 - Analysis includes accuracy, recall and F1 comparisons.  
 **Repo:** `github.com/meehirmhatrepy/Ensemble-Deep-Learning-Environmental-Sound-Classification`
+
+---
+
+### Express-U
+**Express-U** — a Flutter-based real-time Indian Sign Language recognition app.  
+- Mobile app (Flutter) front-end and server-side model inference.  
+- VGG16-based gesture classification backbone for frame-level recognition and LSTM/temporal smoothing for sequence-level predictions.  
+**Repo:** `github.com/meehirmhatrepy/Express-U`
 
 ---
 
