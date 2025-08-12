@@ -9,7 +9,7 @@ MSc Artificial Intelligence (Royal Holloway) | KTP Associate — Royal Holloway 
 
 ---
 
-## 🚀 Selected projects
+## 🚀 Projects
 
 ### MCUBE-Synthetic-Data-Generator
 **MCUBE Synthetic Data Generator** is a powerful desktop application for creating, editing, and augmenting synthetic image datasets with polygonal annotations.  
